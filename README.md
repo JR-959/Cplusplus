@@ -7,8 +7,6 @@ Few C++ Assignments from CS200 Course | Johnson County Community College 2014
 Program reads integer values from a text file named "maxMin01.txt"
 and writes out the largest and smallest values found.  Numbers in the
 file may be separated by blanks or line breaks.
-Run the program a 2nd time reading from "maxMin02.txt".
-Run the program a 3rd time reading from "maxMin03.txt". 
 
 * **Lab 6 Part #2**
 ###
